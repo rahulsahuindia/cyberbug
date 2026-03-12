@@ -15,7 +15,7 @@ jo attack surface mapping aur basic vulnerability hunting me help karta hai.
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/cyberbug.git
+git clone https://github.com/rahulsahuindia/cyberbug.git
 
 Go to folder:
 
