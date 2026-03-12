@@ -17,13 +17,11 @@ Clone the repository:
 
 git clone https://github.com/rahulsahuindia/cyberbug.git
 
-Go to folder:
-
 cd cyberbug
 
-Install requirements:
-
 pip install -r requirements.txt
+
+python tool.py
 
 ## ▶️ Usage
 
